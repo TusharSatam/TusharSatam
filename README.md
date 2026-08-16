@@ -37,16 +37,16 @@ I'm a **Frontend Developer** based in Mumbai, working as a Software Engineer at 
 <br/>
 
 ### 🚀 Featured Projects
-- <a href="https://apps.apple.com/" target="_blank"><b>YouTuneIn</b></a> — A live meditation app shipped to the App Store and Google Play.
+- <a href="https://youtunein.com/" target="_blank"><b>YouTuneIn</b></a> — A live meditation app shipped to the App Store and Google Play.
 - <a href="https://teps.school/" target="_blank"><b>Teps</b></a> — Live and deployed at teps.school.
 
 <br/>
 
 ### 🐍 Contribution Graph
 <p align="left">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/TusharSatam/TusharSatam/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 <br/>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/TusharSatam">TusharSatam</a></i></p>
