@@ -42,11 +42,4 @@ I'm a **Frontend Developer** based in Mumbai, working as a Software Engineer at 
 
 <br/>
 
-### 🐍 Contribution Graph
-<p align="left">
-<img src="https://raw.githubusercontent.com/TusharSatam/TusharSatam/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
-<br/>
-
 <p align="center"><i>⭐️ From <a href="https://github.com/TusharSatam">TusharSatam</a></i></p>
